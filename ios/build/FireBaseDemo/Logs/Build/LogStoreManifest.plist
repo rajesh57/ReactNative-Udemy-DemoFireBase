@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>DC8F06D5-5C30-4052-BC07-3B8415537ED2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DC8F06D5-5C30-4052-BC07-3B8415537ED2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FireBaseDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FireBaseDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project FireBaseDemo with scheme FireBaseDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583059760.51030397</real>
+			<key>timeStoppedRecording</key>
+			<real>583059766.12086904</real>
+			<key>title</key>
+			<string>Building project FireBaseDemo with scheme FireBaseDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DC8F06D5-5C30-4052-BC07-3B8415537ED2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
